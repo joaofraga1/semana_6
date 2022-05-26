@@ -1,0 +1,23 @@
+.about{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.about .box .functionvalue{
+    background-color: red;
+    display: flex;
+   font-size: 5rem;
+   justify-content: center;
+}
+
+
+.about .box .usestatefunction{
+    background-color: blue;
+    display: flex;
+  
+    justify-content: center;
+}

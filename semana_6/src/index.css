@@ -1,0 +1,10 @@
+body{
+    margin: 0;
+    z-index: 10;
+
+    background: url('./data/images/bela-cidade-com-altos-arranha-ceus-brilhando-sob-o-ceu-colorido-a-noite_181624-44575.webp');
+    font-family: Kanit;
+    color: black;
+}
+
+

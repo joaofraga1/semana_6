@@ -1,0 +1,77 @@
+.login{
+    z-index: 10;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+    color: rgb(18, 17, 17) ;
+
+
+}
+
+.login .Content form{
+    z-index: 10;
+    display: flex;
+    flex-direction: column;    
+    justify-content: center;
+    
+    margin:  0px 15px 0px 15px;
+}
+
+.login .login-box{
+    background-color: #151619;
+    width: 275px;
+    height: 350px;
+    opacity: 0.9;
+    
+    overflow: hidden;
+    z-index: 10;
+}
+
+.login .Content form input{
+    z-index: 10;
+    font-display: none;
+    background-color: #c6c4c4;
+    color: #fff;
+    width: 100%;
+    border-bottom: 10px black;
+}
+
+.botao{
+    height: 130px;
+    background-color: #151619;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+}
+.botao a{
+    width: 100px;
+    text-align: center;
+    color: black;
+    background-color: rgb(57, 228, 217);
+    padding: 10px;
+}
+
+.head-title{
+    margin: 5px;
+    text-decoration: underline rgb(57, 228, 217)  ;
+}
+.botao a:hover{
+    opacity:0.5 ;
+}
+
+input{
+    height: 30px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.head-title{
+    color: rgb(208, 201, 201);
+}
+
+form label{
+    color: rgb(208, 201, 201);
+}
